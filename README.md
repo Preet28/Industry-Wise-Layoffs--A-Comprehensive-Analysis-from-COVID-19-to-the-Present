@@ -1,4 +1,4 @@
-# Industry-Wise-Layoffs--A-Comprehensive-Analysis-from-COVID-19-to-the-Present
+# Industry-Wise-Layoffs--A-Comprehensive-Analysis-from-COVID-19-to-the-Present - Tableau
 Industry-Wise-Layoffs--A-Comprehensive-Analysis-from-COVID-19-to-the-Present
 
 Below is the link to view the Tableau Story of the same.
